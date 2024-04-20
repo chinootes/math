@@ -82,6 +82,8 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    siteUrl: https://chinootes.github.io
+    assetsPrefix: /math
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
