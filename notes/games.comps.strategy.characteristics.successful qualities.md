@@ -6,9 +6,9 @@ updated: 1713208152254
 created: 1713193549417
 ---
 
-1. [[game theory.games.strategy.characteristics.nice]]
-2. [[game theory.games.strategy.characteristics.forgiving]]
-3. [[game theory.games.strategy.characteristics.provokable]] 
+1. [[games.comps.strategy.characteristics.nice]]
+2. [[games.comps.strategy.characteristics.forgiving]]
+3. [[games.comps.strategy.characteristics.provokable]] 
 
 
 ## References

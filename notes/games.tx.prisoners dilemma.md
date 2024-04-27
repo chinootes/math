@@ -2,17 +2,17 @@
 id: okh3fg46m83rps9lc058m4i
 title: Prisoners Dilemma
 desc: ''
-updated: 1713213927820
+updated: 1714243435878
 created: 1713189772999
 ---
 
 This game can be formulated or described in many ways, but the basic structure of the game is that there has two prisoners. Lets call them A and B. Both are accused of some crime. Now, both prisoners are taken into separate rooms and questioned. 
 
-Neither A, nor B knows what the other one is going to act. They can choose to cooperate or defect. Based on how they choose to act, the prisoners will get [[game theory.games.payoffs]]
+Neither A, nor B knows what the other one is going to act. They can choose to cooperate or defect. Based on how they choose to act, the prisoners will get [[games.comps.payoffs]]
 
 Let C denote co-operation from the prisoner's side and D denote defection. We will just consider the "weights" of the payoffs in our case, doesn't matter what the reward is. 
 
-Here is a [[game theory.normal form]] representation of the game: 
+Here is a [[games.representation.normal form]] representation of the game: 
 
 |       |      | **B** | 
 |-------|-----|------|-------|
@@ -36,13 +36,13 @@ But what if the other person defects, in that case you will be stuck with zero p
 
 But if you defect, and the other person cooperates, you get all the reward.
 
-Therefor, no matter what, the [[game theory.games.strategy.dominant]] seems to be, to always defect.
+Therefor, no matter what, the [[games.comps.strategy.dominant]] seems to be, to always defect.
 
-If your oponent is rational, they will also reach the same conclusion and always defect. Thus, reaching a [[game theory.games.strategy.dominant.equilibrium]].
+If your oponent is rational, they will also reach the same conclusion and always defect. Thus, reaching a [[games.comps.strategy.dominant.equilibrium]].
 
 In such cases, both agents are stuck with the suboptimal reward 1-1, where they could both have gotten 3-3 each if they chose to cooperate.
 
 
 ## Series
 
-Most real-world problems are not a single prisoner's dilemma. Its a series of such games. And you have to be long-sighted when deciding your [[game theory.games.strategy]]
+Most real-world problems are not a single prisoner's dilemma. Its a series of such games. And you have to be long-sighted when deciding your [[games.comps.strategy]]
