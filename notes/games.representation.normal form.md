@@ -2,11 +2,11 @@
 id: p554ai8jh3o2sdmf4oo53x8
 title: Normal Form
 desc: ''
-updated: 1714243182545
+updated: 1714244620537
 created: 1713212811724
 ---
 
-Matrix representing [[game theory.games]].
+Matrix representing [[games]].
 
 1. The [[games.comps.players]] are represented as the two axes.
 2. The [[games.comps.strategy]]s for each player are represented as the rows and columns.
