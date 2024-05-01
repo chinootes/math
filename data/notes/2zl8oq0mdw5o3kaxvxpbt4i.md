@@ -1,0 +1,2 @@
+
+A system operates with a specific purpose, goal, or objective in mind. The purpose defines the reason for the system's existence and the desired outcomes or behaviors it aims to achieve. Understanding the purpose of the system helps in identifying its functions, priorities, and performance criteria.
