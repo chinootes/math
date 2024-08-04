@@ -1,0 +1,652 @@
+{
+  "roots": [
+    {
+      "key": "5t9zqkrrl4ablw9msul59dy",
+      "title": "Algebra",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": []
+    },
+    {
+      "key": "c34nkwmxysf7ij3wqw81i4v",
+      "title": "Analysis",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "o4jp4060pvajjds4ksoj44p",
+          "title": "Func",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "obd0rnkhqeh2lbza5irg8as",
+              "title": "Char",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": [
+                {
+                  "key": "cwnpsmrwj25q98x3r7rn2cb",
+                  "title": "Deterministic",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": []
+                },
+                {
+                  "key": "nt46ttqxj6205z2gqcc8xxz",
+                  "title": "Idempotent",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "oc0l9hcrwepakd0ho0m89x7",
+      "title": "Foundations",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "8dv4ywxz6x7ct9o3zwq6j8w",
+          "title": "Axioms",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "7ryw6yfd5y58zhkkt55zvpz",
+      "title": "Games",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "glh17whg3beyz4e1rg0d2e3",
+          "title": "Characteristics",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "9dxizr5n2emcbduqks5zjy5",
+              "title": "Non Zero Sum",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "xpoygxbxpw4gxmfxdrvu1zt",
+              "title": "Zero Sum",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "8no3kv45bz6dnuw5626qks5",
+          "title": "Components",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "3ohc5nsvzifadam5e5s9t40",
+              "title": "Noise",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "mcp2dqp2rfxphsb3puf9wus",
+              "title": "Payoffs",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "m96aiukhhhsgpnt84w7z3hz",
+              "title": "Players",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "ovelybjmq5tf8f94zkajli8",
+              "title": "Strategy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": [
+                {
+                  "key": "ukjbu1r75i860q4aetttjq8",
+                  "title": "Characteristics",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": [
+                    {
+                      "key": "nkghzw7hynjqb9fp5niylbm",
+                      "title": "Forgiving",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    },
+                    {
+                      "key": "imz1t5w21aneqfrcx4bkyqb",
+                      "title": "Nice",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    },
+                    {
+                      "key": "vhicdmz8yovavozct1ddg2v",
+                      "title": "Provokable",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    },
+                    {
+                      "key": "x605b5ntod02f5iq3p69ibv",
+                      "title": "Successful Characteristics",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "97imcqqh2ac04geuup2tisd",
+                  "title": "Dominant Strategy",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": [
+                    {
+                      "key": "h59wm95gh76xyfjtuac1c9v",
+                      "title": "Dominant Strategy Equilibrium",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "2u36rwjfyrrwgz4dvuo9457",
+                  "title": "Nash Equilibrium",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": []
+                },
+                {
+                  "key": "0rc4xvg6u50v3pap1peby40",
+                  "title": "Tit for Tat",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "izh78j7l85ni2qeo0kz6tbu",
+          "title": "Representation",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "p554ai8jh3o2sdmf4oo53x8",
+              "title": "Normal Form",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "2a9gv8z6yccqmbdh012c8f2",
+          "title": "Tx",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "okh3fg46m83rps9lc058m4i",
+              "title": "Prisoners Dilemma",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "umpc3l1tjeu17kgyfr4mi1x",
+      "title": "Logic",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "nnsivs72dsqgpdcrdy26pgd",
+          "title": "Lambda Calculus",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "f7gf6ekgu9qgjlqbiidpt2p",
+      "title": "Modelling",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "fu3trwwmmsnw833rcq6lvdq",
+          "title": "Ops",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "fi6j1uzpqecx97ej7y2ksjt",
+              "title": "Scaling",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "aac4emdjdyh3tr5rigxombr",
+      "title": "Nums",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "macyegstbqsvt9vnymrkjlp",
+          "title": "Natural Numbers",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        },
+        {
+          "key": "iky5fmohd8x3nwz9ssab8ii",
+          "title": "Rational",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "eamielw494y44as1236jtz2",
+      "title": "Phil",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "r8y5qo4vzghg766853j3crz",
+          "title": "Incompleteness",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "m6p23ub30n3n6f4ockixxms",
+      "title": "Systems",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "math",
+      "children": [
+        {
+          "key": "3jrmur08ufox7ygyv9uib6e",
+          "title": "Char",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "ey1z6b6iwpdybvuyj5q5p3v",
+              "title": "Performance",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": [
+                {
+                  "key": "7jkv1qzjpkjw4osm44k329b",
+                  "title": "Indicators",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "math",
+                  "children": [
+                    {
+                      "key": "val653meusfuf8xq2k6nha9",
+                      "title": "Latency",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    },
+                    {
+                      "key": "cxrucycqy9vw1e3ufqmv113",
+                      "title": "Throughput",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "math",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "wmklelysq5facy6kgt5ah8j",
+              "title": "Scalable",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "n53u4soaqjfa3oh53rjwkuw",
+          "title": "Defining",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "6iepq1ytuj8uhfkacizezpk",
+              "title": "Boundaries",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "a0pvbdrz7gi608su4amuu7p",
+              "title": "Component",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "8jpk9rfgz0nmjm2uh3z8far",
+              "title": "Emergent Properties",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "nrw0jk7n8zmyfcfcqbnric2",
+              "title": "Feedback",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "oiibqo6qs86y22md7l9b6af",
+              "title": "Input",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "yjtu8o458h8klsw5wz6eb37",
+              "title": "Interactions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "2tj8g6hexyxt1uvu1q58m97",
+              "title": "Output",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "2zl8oq0mdw5o3kaxvxpbt4i",
+              "title": "Purpose",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "6ibl9m8wsbqoyce86e2u43h",
+          "title": "Design",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": []
+        },
+        {
+          "key": "xswuzxumqr5hpjzrzf2xvoj",
+          "title": "Ops",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "lhbzuzq8vvf4x7g96a3xemq",
+              "title": "Pre-Processing",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "jiqbefhmi6p3x1f554mi29o",
+          "title": "Types",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "math",
+          "children": [
+            {
+              "key": "86dr2afyfsaj6y0isdfnzts",
+              "title": "Closed",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            },
+            {
+              "key": "h1nwjzu37ps0bi6zsz4b7n3",
+              "title": "Open",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "math",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "5t9zqkrrl4ablw9msul59dy": null,
+    "c34nkwmxysf7ij3wqw81i4v": null,
+    "o4jp4060pvajjds4ksoj44p": "c34nkwmxysf7ij3wqw81i4v",
+    "obd0rnkhqeh2lbza5irg8as": "o4jp4060pvajjds4ksoj44p",
+    "cwnpsmrwj25q98x3r7rn2cb": "obd0rnkhqeh2lbza5irg8as",
+    "nt46ttqxj6205z2gqcc8xxz": "obd0rnkhqeh2lbza5irg8as",
+    "oc0l9hcrwepakd0ho0m89x7": null,
+    "8dv4ywxz6x7ct9o3zwq6j8w": "oc0l9hcrwepakd0ho0m89x7",
+    "7ryw6yfd5y58zhkkt55zvpz": null,
+    "glh17whg3beyz4e1rg0d2e3": "7ryw6yfd5y58zhkkt55zvpz",
+    "9dxizr5n2emcbduqks5zjy5": "glh17whg3beyz4e1rg0d2e3",
+    "xpoygxbxpw4gxmfxdrvu1zt": "glh17whg3beyz4e1rg0d2e3",
+    "8no3kv45bz6dnuw5626qks5": "7ryw6yfd5y58zhkkt55zvpz",
+    "3ohc5nsvzifadam5e5s9t40": "8no3kv45bz6dnuw5626qks5",
+    "mcp2dqp2rfxphsb3puf9wus": "8no3kv45bz6dnuw5626qks5",
+    "m96aiukhhhsgpnt84w7z3hz": "8no3kv45bz6dnuw5626qks5",
+    "ovelybjmq5tf8f94zkajli8": "8no3kv45bz6dnuw5626qks5",
+    "ukjbu1r75i860q4aetttjq8": "ovelybjmq5tf8f94zkajli8",
+    "nkghzw7hynjqb9fp5niylbm": "ukjbu1r75i860q4aetttjq8",
+    "imz1t5w21aneqfrcx4bkyqb": "ukjbu1r75i860q4aetttjq8",
+    "vhicdmz8yovavozct1ddg2v": "ukjbu1r75i860q4aetttjq8",
+    "x605b5ntod02f5iq3p69ibv": "ukjbu1r75i860q4aetttjq8",
+    "97imcqqh2ac04geuup2tisd": "ovelybjmq5tf8f94zkajli8",
+    "h59wm95gh76xyfjtuac1c9v": "97imcqqh2ac04geuup2tisd",
+    "2u36rwjfyrrwgz4dvuo9457": "ovelybjmq5tf8f94zkajli8",
+    "0rc4xvg6u50v3pap1peby40": "ovelybjmq5tf8f94zkajli8",
+    "izh78j7l85ni2qeo0kz6tbu": "7ryw6yfd5y58zhkkt55zvpz",
+    "p554ai8jh3o2sdmf4oo53x8": "izh78j7l85ni2qeo0kz6tbu",
+    "2a9gv8z6yccqmbdh012c8f2": "7ryw6yfd5y58zhkkt55zvpz",
+    "okh3fg46m83rps9lc058m4i": "2a9gv8z6yccqmbdh012c8f2",
+    "umpc3l1tjeu17kgyfr4mi1x": null,
+    "nnsivs72dsqgpdcrdy26pgd": "umpc3l1tjeu17kgyfr4mi1x",
+    "f7gf6ekgu9qgjlqbiidpt2p": null,
+    "fu3trwwmmsnw833rcq6lvdq": "f7gf6ekgu9qgjlqbiidpt2p",
+    "fi6j1uzpqecx97ej7y2ksjt": "fu3trwwmmsnw833rcq6lvdq",
+    "aac4emdjdyh3tr5rigxombr": null,
+    "macyegstbqsvt9vnymrkjlp": "aac4emdjdyh3tr5rigxombr",
+    "iky5fmohd8x3nwz9ssab8ii": "aac4emdjdyh3tr5rigxombr",
+    "eamielw494y44as1236jtz2": null,
+    "r8y5qo4vzghg766853j3crz": "eamielw494y44as1236jtz2",
+    "m6p23ub30n3n6f4ockixxms": null,
+    "3jrmur08ufox7ygyv9uib6e": "m6p23ub30n3n6f4ockixxms",
+    "ey1z6b6iwpdybvuyj5q5p3v": "3jrmur08ufox7ygyv9uib6e",
+    "7jkv1qzjpkjw4osm44k329b": "ey1z6b6iwpdybvuyj5q5p3v",
+    "val653meusfuf8xq2k6nha9": "7jkv1qzjpkjw4osm44k329b",
+    "cxrucycqy9vw1e3ufqmv113": "7jkv1qzjpkjw4osm44k329b",
+    "wmklelysq5facy6kgt5ah8j": "3jrmur08ufox7ygyv9uib6e",
+    "n53u4soaqjfa3oh53rjwkuw": "m6p23ub30n3n6f4ockixxms",
+    "6iepq1ytuj8uhfkacizezpk": "n53u4soaqjfa3oh53rjwkuw",
+    "a0pvbdrz7gi608su4amuu7p": "n53u4soaqjfa3oh53rjwkuw",
+    "8jpk9rfgz0nmjm2uh3z8far": "n53u4soaqjfa3oh53rjwkuw",
+    "nrw0jk7n8zmyfcfcqbnric2": "n53u4soaqjfa3oh53rjwkuw",
+    "oiibqo6qs86y22md7l9b6af": "n53u4soaqjfa3oh53rjwkuw",
+    "yjtu8o458h8klsw5wz6eb37": "n53u4soaqjfa3oh53rjwkuw",
+    "2tj8g6hexyxt1uvu1q58m97": "n53u4soaqjfa3oh53rjwkuw",
+    "2zl8oq0mdw5o3kaxvxpbt4i": "n53u4soaqjfa3oh53rjwkuw",
+    "6ibl9m8wsbqoyce86e2u43h": "m6p23ub30n3n6f4ockixxms",
+    "xswuzxumqr5hpjzrzf2xvoj": "m6p23ub30n3n6f4ockixxms",
+    "lhbzuzq8vvf4x7g96a3xemq": "xswuzxumqr5hpjzrzf2xvoj",
+    "jiqbefhmi6p3x1f554mi29o": "m6p23ub30n3n6f4ockixxms",
+    "86dr2afyfsaj6y0isdfnzts": "jiqbefhmi6p3x1f554mi29o",
+    "h1nwjzu37ps0bi6zsz4b7n3": "jiqbefhmi6p3x1f554mi29o"
+  },
+  "notesLabelById": {
+    "5t9zqkrrl4ablw9msul59dy": "Algebra",
+    "c34nkwmxysf7ij3wqw81i4v": "Analysis",
+    "o4jp4060pvajjds4ksoj44p": "Func",
+    "obd0rnkhqeh2lbza5irg8as": "Char",
+    "cwnpsmrwj25q98x3r7rn2cb": "Deterministic",
+    "nt46ttqxj6205z2gqcc8xxz": "Idempotent",
+    "oc0l9hcrwepakd0ho0m89x7": "Foundations",
+    "8dv4ywxz6x7ct9o3zwq6j8w": "Axioms",
+    "7ryw6yfd5y58zhkkt55zvpz": "Games",
+    "glh17whg3beyz4e1rg0d2e3": "Characteristics",
+    "9dxizr5n2emcbduqks5zjy5": "Non Zero Sum",
+    "xpoygxbxpw4gxmfxdrvu1zt": "Zero Sum",
+    "8no3kv45bz6dnuw5626qks5": "Components",
+    "3ohc5nsvzifadam5e5s9t40": "Noise",
+    "mcp2dqp2rfxphsb3puf9wus": "Payoffs",
+    "m96aiukhhhsgpnt84w7z3hz": "Players",
+    "ovelybjmq5tf8f94zkajli8": "Strategy",
+    "ukjbu1r75i860q4aetttjq8": "Characteristics",
+    "nkghzw7hynjqb9fp5niylbm": "Forgiving",
+    "imz1t5w21aneqfrcx4bkyqb": "Nice",
+    "vhicdmz8yovavozct1ddg2v": "Provokable",
+    "x605b5ntod02f5iq3p69ibv": "Successful Characteristics",
+    "97imcqqh2ac04geuup2tisd": "Dominant Strategy",
+    "h59wm95gh76xyfjtuac1c9v": "Dominant Strategy Equilibrium",
+    "2u36rwjfyrrwgz4dvuo9457": "Nash Equilibrium",
+    "0rc4xvg6u50v3pap1peby40": "Tit for Tat",
+    "izh78j7l85ni2qeo0kz6tbu": "Representation",
+    "p554ai8jh3o2sdmf4oo53x8": "Normal Form",
+    "2a9gv8z6yccqmbdh012c8f2": "Tx",
+    "okh3fg46m83rps9lc058m4i": "Prisoners Dilemma",
+    "umpc3l1tjeu17kgyfr4mi1x": "Logic",
+    "nnsivs72dsqgpdcrdy26pgd": "Lambda Calculus",
+    "f7gf6ekgu9qgjlqbiidpt2p": "Modelling",
+    "fu3trwwmmsnw833rcq6lvdq": "Ops",
+    "fi6j1uzpqecx97ej7y2ksjt": "Scaling",
+    "aac4emdjdyh3tr5rigxombr": "Nums",
+    "macyegstbqsvt9vnymrkjlp": "Natural Numbers",
+    "iky5fmohd8x3nwz9ssab8ii": "Rational",
+    "eamielw494y44as1236jtz2": "Phil",
+    "r8y5qo4vzghg766853j3crz": "Incompleteness",
+    "m6p23ub30n3n6f4ockixxms": "Systems",
+    "3jrmur08ufox7ygyv9uib6e": "Char",
+    "ey1z6b6iwpdybvuyj5q5p3v": "Performance",
+    "7jkv1qzjpkjw4osm44k329b": "Indicators",
+    "val653meusfuf8xq2k6nha9": "Latency",
+    "cxrucycqy9vw1e3ufqmv113": "Throughput",
+    "wmklelysq5facy6kgt5ah8j": "Scalable",
+    "n53u4soaqjfa3oh53rjwkuw": "Defining",
+    "6iepq1ytuj8uhfkacizezpk": "Boundaries",
+    "a0pvbdrz7gi608su4amuu7p": "Component",
+    "8jpk9rfgz0nmjm2uh3z8far": "Emergent Properties",
+    "nrw0jk7n8zmyfcfcqbnric2": "Feedback",
+    "oiibqo6qs86y22md7l9b6af": "Input",
+    "yjtu8o458h8klsw5wz6eb37": "Interactions",
+    "2tj8g6hexyxt1uvu1q58m97": "Output",
+    "2zl8oq0mdw5o3kaxvxpbt4i": "Purpose",
+    "6ibl9m8wsbqoyce86e2u43h": "Design",
+    "xswuzxumqr5hpjzrzf2xvoj": "Ops",
+    "lhbzuzq8vvf4x7g96a3xemq": "Pre-Processing",
+    "jiqbefhmi6p3x1f554mi29o": "Types",
+    "86dr2afyfsaj6y0isdfnzts": "Closed",
+    "h1nwjzu37ps0bi6zsz4b7n3": "Open"
+  }
+}

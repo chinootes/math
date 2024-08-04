@@ -1,0 +1,2 @@
+
+Outputs are the results, outcomes, or products produced by the system and released into its environment. Outputs represent the effects, responses, or transformations that occur within the system as a result of its internal processes and interactions. Outputs can include physical outputs such as products or waste, informational outputs such as feedback or responses, and environmental changes caused by the system.

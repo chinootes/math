@@ -1,0 +1,52 @@
+<h1 id="prisoners-dilemma">Prisoners Dilemma<a aria-hidden="true" class="anchor-heading icon-link" href="#prisoners-dilemma"></a></h1>
+<p>This game can be formulated or described in many ways, but the basic structure of the game is that there has two prisoners. Lets call them A and B. Both are accused of some crime. Now, both prisoners are taken into separate rooms and questioned. </p>
+<p>Neither A, nor B knows what the other one is going to act. They can choose to cooperate or defect. Based on how they choose to act, the prisoners will get <a href="/math/notes/mcp2dqp2rfxphsb3puf9wus">Payoffs</a></p>
+<p>Let C denote co-operation from the prisoner's side and D denote defection. We will just consider the "weights" of the payoffs in our case, doesn't matter what the reward is. </p>
+<p>Here is a <a href="/math/notes/p554ai8jh3o2sdmf4oo53x8">Normal Form</a> representation of the game: </p>
+<div class="table-responsive">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th></th><th><strong>B</strong></th><th></th></tr></thead><tbody><tr><td></td><td></td><td>C</td><td>D</td></tr><tr><td><strong>A</strong></td><td>C</td><td>3, 3</td><td>0, 5</td></tr><tr><td></td><td>D</td><td>5, 0</td><td>1, 1</td></tr></tbody></table></div>
+<p>The dilemma for prisoner is to choose whether to defect or to cooperate.</p>
+<p>❗Note that its important for the rewards to be in this order. The exact number don't matter that much, but the points should be such that the reward, is greatest when one player defects, and least when both defect. The reward when both cooperate should also be somewhere in middle. The rewards are ordered this way to make it a dilemma and also to model most real-life problems.</p>
+<h2 id="one-shot">One-shot<a aria-hidden="true" class="anchor-heading icon-link" href="#one-shot"></a></h2>
+<p>If you're shortsighted, you can think of it as only a single/one-time game. </p>
+<p>Of course, the best outcome for both players or win-win situation in this case will be if both choose to cooperate. </p>
+<p>But what if the other person defects, in that case you will be stuck with zero points while the other person gets all the rewards.</p>
+<p>But if you defect, and the other person cooperates, you get all the reward.</p>
+<p>Therefor, no matter what, the <a href="/math/notes/97imcqqh2ac04geuup2tisd">Dominant Strategy</a> seems to be, to always defect.</p>
+<p>If your oponent is rational, they will also reach the same conclusion and always defect. Thus, reaching a <a href="/math/notes/h59wm95gh76xyfjtuac1c9v">Dominant Strategy Equilibrium</a>.</p>
+<p>In such cases, both agents are stuck with the suboptimal reward 1-1, where they could both have gotten 3-3 each if they chose to cooperate.</p>
+<h2 id="series">Series<a aria-hidden="true" class="anchor-heading icon-link" href="#series"></a></h2>
+<p>Most real-world problems are not a single prisoner's dilemma. Its a series of such games. And you have to be long-sighted when deciding your <a href="/math/notes/ovelybjmq5tf8f94zkajli8">Strategy</a></p>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/math/notes/0rc4xvg6u50v3pap1peby40">Tit for Tat</a></li>
+</ul>

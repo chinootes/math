@@ -1,0 +1,2 @@
+
+System consists of multiple components or elements that work together to achieve specific objectives or functions. These components can be physical entities, subsystems, processes, or variables that interact within the system.

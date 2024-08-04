@@ -1,0 +1,2 @@
+
+A system is delineated by a boundary that separates it from its environment. The boundary defines what is included within the system and what lies outside of it. It helps in distinguishing the system from its surroundings and in identifying the inputs and outputs that flow across the boundary.
